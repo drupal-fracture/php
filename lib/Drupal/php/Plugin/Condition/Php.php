@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\php\Plugin\Core\Condition\Php.
+ * Contains \Drupal\php\Plugin\Condition\Php.
  */
 
-namespace Drupal\php\Plugin\Core\Condition;
+namespace Drupal\php\Plugin\Condition;
 
 use Drupal\Core\Condition\ConditionPluginBase;
 use Drupal\Component\Annotation\Plugin;
